@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 Second-year BTech student specializing in **CSE with AI** at GL Bajaj Institute of Technology and Management.
-- 💻 Passionate about **front-end development, AI, and DSA**.
+- 💻 Passionate about **Full-Stack Development, AI, Web-Designing , UI UX Designing and graphic designing**.
 - 🏆 Hackathon enthusiast: Recently participated in Hackspire with my team.
 
 ## 🛠️ Skills
@@ -18,3 +18,6 @@
 ## 📫 How to Reach Me
 - **LinkedIn:** [[linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)](#)
 - **Email:** [katiyar.saksham2004@gamil.com](mailto:katiyar.saksham2004@gamil.com)
+
+## ⚡ Fun Fact
+I love **paragliding** and **bungee jumping!😍**🌍
