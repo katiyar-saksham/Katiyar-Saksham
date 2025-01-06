@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Saksham Katiyar!
 
-<!--
-**katiyar-saksham/katiyar-saksham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Second-year BTech student specializing in **CSE with AI** at GL Bajaj Institute of Technology and Management.
+- 💻 Passionate about **front-end development, AI, and DSA**.
+- 🏆 Hackathon enthusiast: Recently participated in Hackspire with my team.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C++, Python, JavaScript
+- **Front-end:** HTML, CSS, JavaScript, React.js
+- **AI/ML:** Basics of AI with Python (future plans to explore more)
+- **Tools:** Figma, Adobe XD, Adobe Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Building **portfolio websites** and mastering **DSA in C++**.
+- Exploring **AI-powered projects** and improving my skills in **front-end development**.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [[linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)](#)
+- **Email:** [katiyar.saksham2004@gamil.com](mailto:katiyar.saksham2004@gamil.com)
