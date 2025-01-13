@@ -16,7 +16,7 @@
 - Exploring **AI-powered projects** and improving my skills in **front-end development**.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [[linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)](#)
+- **LinkedIn:** [linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)
 - **Email:** [katiyar.saksham2004@gamil.com](mailto:katiyar.saksham2004@gamil.com)
 
 ## ⚡ Fun Fact
