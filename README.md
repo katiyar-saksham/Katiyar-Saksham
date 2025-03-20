@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 Second-year BTech student specializing in **CSE with AI** at GL Bajaj Institute of Technology and Management.
 - 💻 Passionate about **Full-Stack Development, AI, Web-Designing , UI UX Designing and graphic designing**.
-- 🏆 Hackathon enthusiast: Recently participated in Hackspire with my team.
+- 🏆 Hackathon enthusiast
 
 ## 🛠️ Skills
 - **Languages:** C++, Python, JavaScript
@@ -12,7 +12,7 @@
 - **Tools:** Figma, Adobe XD, Adobe Photoshop
 
 ## 🌱 Currently Learning
-- Building **portfolio websites** and mastering **DSA in C++**.
+- Mastering **DSA in C++**.
 - Exploring **AI-powered projects** and improving my skills in **front-end development**.
 
 ## 📫 How to Reach Me
