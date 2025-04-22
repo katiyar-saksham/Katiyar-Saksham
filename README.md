@@ -15,6 +15,10 @@
 - Mastering **DSA**.
 - Exploring **AI-powered projects** and improving my skills in **front-end development**.
 
+## 📈 GitHub Stats
+
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiyar-saksham&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 ## 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)
 - **Twitter:** [https://x.com/Katiyarsaksham_](https://x.com/Katiyarsaksham_)
