@@ -23,9 +23,10 @@
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)
-- **Twitter:** [https://x.com/Katiyarsaksham_](https://x.com/Katiyarsaksham_)
 - **Email:** [katiyar.saksham2004@gmail.com](mailto:katiyar.saksham2004@gmail.com)
-
+- **Portfolio**: [sakshamkatiyar.vercel.app](https://sakshamkatiyar.vercel.app)
+- **LinkedIn**: [Saksham Katiyar](https://www.linkedin.com/in/katiyar-saksham/)
+- **GitHub**: [katiyar-saksham](https://github.com/katiyar-saksham)
+  
 ## ⚡ Fun Fact
 I absolutely love **paragliding** and **bungee jumping**! 😍🌍
