@@ -1,32 +1,34 @@
 # 👋 Hi, I'm Saksham Katiyar!
 
 ## 🚀 About Me
-- 🎓 Second-year BTech student specializing in **CSE with AI**
-- 💻 Passionate about **Full-Stack Development**, **AI**, **Web Designing** and **Graphic Designing**.
-- 🏆 Hackathon enthusiast, always excited to tackle new challenges and build innovative solutions.
+- 🎓 Pre-final year B.Tech student in **Computer Science and Engineering (Artificial Intelligence)** at G.L. Bajaj Institute of Technology and Management.
+- 💻 Passionate about **Full-Stack Web Development**, **AI**, **Modern UI/UX**, and **Graphic Design**.
+- 🏆 Hackathon enthusiast who enjoys solving real-world problems and building smart, impactful solutions.
 
 ## 🛠️ Skills
-- **Languages:** C++, Java, Python, JavaScript
-- **Front-end:** HTML, CSS, JavaScript, React.js
-- **AI/ML:** Basics of AI with Python (future plans to explore more)
-- **Tools:** Figma, Adobe XD, Adobe Photoshop, Adobe Premiere Pro
+- **Languages:** Java, Python, JavaScript  
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** (Learning) Node.js 
+- **AI/ML:** Basics of AI with Python — starting with ML model integration in web apps  
+- **Tools & Design:** Figma, Adobe XD, Adobe Photoshop, Adobe Premiere Pro  
 
 ## 🌱 Currently Learning
-- Mastering **Data Structures and Algorithms (DSA)**.
-- Exploring **AI-powered projects** and improving my **front-end development** skills.
+- Strengthening **Data Structures and Algorithms (DSA)** in Java  
+- Exploring **Full-Stack Web Development** and **AI-powered applications**  
+- Learning how to build responsive, animated UIs with tools like **GSAP**, **Locomotive**, and **Lenis**
 
 ## 🌟 Featured Projects
-- **[Care Sathi](#)**: A disease-checking AI app with a live chat interface, disease prediction using ML models, and a nearby hospital locator.
-- **[Influenzio](#)**: Influencer marketing platform with a unique rewards system (**Influenzio Coins**) for influencers and customers.
-- **[NutriMap](#)**: A web app integrated with a chatbot that provides personalized nutrition suggestions.
-- **[Sidcup Family Golf Clone](#)**: A project replicating dynamic styling and custom animations for a responsive website.
+- **[TaskForge](#)** – A group task management web app for students, with an AI-like task splitter and real-time dashboard  
+- **[Care Sathi](#)** – AI-based disease prediction app with live chat and hospital locator  
+- **[NutriMap](#)** – Personalized nutrition chatbot with smart food suggestions  
+- **[Influenzio](#)** – Influencer marketing platform with a rewards system using **Influenzio Coins**  
+- **[Sidcup Family Golf Clone](#)** – Clean, animated responsive website using modern front-end techniques  
 
-## 📫 How to Reach Me
+## 📫 Let's Connect
+- **Email:** [katiyar.saksham2004@gmail.com](mailto:katiyar.saksham2004@gmail.com)  
+- **Portfolio:** [sakshamkatiyar.vercel.app](https://sakshamkatiyar.vercel.app)  
+- **LinkedIn:** [Saksham Katiyar](https://www.linkedin.com/in/katiyar-saksham/)  
+- **GitHub:** [katiyar-saksham](https://github.com/katiyar-saksham)
 
-- **Email:** [katiyar.saksham2004@gmail.com](mailto:katiyar.saksham2004@gmail.com)
-- **Portfolio**: [sakshamkatiyar.vercel.app](https://sakshamkatiyar.vercel.app)
-- **LinkedIn**: [Saksham Katiyar](https://www.linkedin.com/in/katiyar-saksham/)
-- **GitHub**: [katiyar-saksham](https://github.com/katiyar-saksham)
-  
 ## ⚡ Fun Fact
-I absolutely love **paragliding** and **bungee jumping**! 😍🌍
+I love **paragliding** and **bungee jumping** — always up for a challenge, whether in the sky or in code! 😄✨
