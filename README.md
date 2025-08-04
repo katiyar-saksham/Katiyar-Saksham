@@ -28,7 +28,9 @@
 - **Email:** [katiyar.saksham2004@gmail.com](mailto:katiyar.saksham2004@gmail.com)  
 - **Portfolio:** [sakshamkatiyar.vercel.app](https://sakshamkatiyar.vercel.app)  
 - **LinkedIn:** [Saksham Katiyar](https://www.linkedin.com/in/katiyar-saksham/)  
-- **GitHub:** [katiyar-saksham](https://github.com/katiyar-saksham)
+- **GitHub:** [katiyar-saksham](https://github.com/katiyar-saksham)  
+- **LeetCode:** [katiyar-saksham](http://leetcode.com/katiyar-saksham/)  
+- **HackerRank:** [katiyar_saksham](https://www.hackerrank.com/profile/katiyar_saksham)
 
 ## ⚡ Fun Fact
 I love **paragliding** and **bungee jumping** — always up for a challenge, whether in the sky or in code! 😄✨
