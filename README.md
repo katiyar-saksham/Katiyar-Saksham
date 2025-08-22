@@ -91,3 +91,56 @@
 
 ## 🏕️ Fun Fact  
 When I'm not debugging code, I'm usually **exploring adventures** — from flying high in the skies to diving deep into creative design ⚡😄  
+
+# Hi there, I'm Saksham 👋  
+
+🚀 Passionate about **DSA | Web Development | Open Source**  
+🎯 Currently building: **TaskForge – Group Task Splitter** & **BugTracker AI – Smart Debugging Companion**  
+💡 Exploring: AI-Powered Tools, Clean UI/UX, and Problem-Solving through Code  
+
+---
+
+## 📊 LeetCode Stats (Auto-updating)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/katiyar-saksham?theme=chartreuse&font=Tiro%20Tamil&ext=heatmap)
+
+---
+
+## 🏆 GitHub Stats (Auto-updating)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkatiyar&show_icons=true&theme=chartreuse-dark" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamkatiyar&theme=chartreuse-dark" height="180em" />
+</p>
+
+---
+
+## 📈 Skills Progress  
+
+### Data Structures & Algorithms  
+- Arrays & Strings ![███████████░░░░░░░░](https://progress-bar.dev/70/?title=Progress)  
+- Linked List & Stacks ![████████░░░░░░░░░░](https://progress-bar.dev/55/?title=Progress)  
+- Trees & Graphs ![███████░░░░░░░░░░░░](https://progress-bar.dev/40/?title=Progress)  
+- Dynamic Programming ![█████░░░░░░░░░░░░░](https://progress-bar.dev/30/?title=Progress)  
+
+### Web Development  
+- HTML / CSS / JS ![██████████████░░░░░](https://progress-bar.dev/80/?title=Progress)  
+- React.js ![██████████░░░░░░░░░](https://progress-bar.dev/65/?title=Progress)  
+- Firebase ![███████░░░░░░░░░░░░](https://progress-bar.dev/40/?title=Progress)  
+
+---
+
+## 🔥 Current Projects  
+- **TaskForge – Group Task Splitter** 🛠️ AI-powered group project manager  
+- **BugTracker AI – Smart Debugging Companion** 🐞 AI-assisted debugging tool  
+- **TimeSpace – Real-time Code Profiler for VS Code** ⏱️ Tracks runtime & memory usage  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/saksham-katiyar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sakshamkatiyar@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://leetcode.com/katiyar-saksham"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://github.com/sakshamkatiyar"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
