@@ -47,13 +47,13 @@
 ### 🚀 [TaskForge (In Progress)](https://github.com/katiyar-saksham/projectPulse-in-Progress-)
 AI-powered collaborative task management with **smart task splitting**, **Kanban board**, and **real-time collaboration**
 
-### 🏥 Care Sathi
-AI-based disease prediction app with **live chat support** and **hospital locator** for healthcare assistance
-
 ### 🍎 [NutriMap](https://github.com/katiyar-saksham/Nutri-Map)
 Personalized nutrition chatbot offering **intelligent diet suggestions** based on user preferences and health goals
 
-### 📈 Influenzio
+### 🏥 [Care Sathi](https://github.com/katiyar-saksham)
+AI-based disease prediction app with **live chat support** and **hospital locator** for healthcare assistance
+
+### 📈 [Influenzio](https://github.com/katiyar-saksham)
 Influencer marketing platform with a **reward system** using Influenzio Coins and **brand collaboration** features
 
 ### 🏌️ [Sidcup Golf Clone](https://github.com/katiyar-saksham/Sidcup-Golf)
