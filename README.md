@@ -1,146 +1,128 @@
-# 👋 Hi, I'm Saksham Katiyar  
+# 👋 Hi, I'm Saksham Katiyar
 
-## 🚀 About Me  
+## 🚀 About Me
 🎓 Pre-final year **B.Tech CSE (Artificial Intelligence)** student at **G.L. Bajaj Institute of Technology and Management**  
-💻 Passionate about **Full-Stack Web Development, AI, Modern UI/UX, and Problem-Solving**  
-🏆 Hackathon enthusiast who loves building impactful products with **real-world applications**  
+💻 **Full-Stack Developer** passionate about building **AI-powered web applications** and **problem-solving**  
+🏆 **2x Hackathon Finalist** who loves creating impactful products with **real-world applications**  
+🌟 Currently mastering **DSA**, **React.js**, and **Modern UI/UX animations**
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Problem Solving  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🎨 Front-End  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### 🖥️ Back-End & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+### 🗄️ Database & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🤖 AI/ML  
-- AI with Python Basics  
-- ML model integration into web apps  
+### 🤖 AI/ML
+![Python](https://img.shields.io/badge/AI%20with%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🎨 Tools & Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)  
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black)  
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black)
 
 ---
 
-## 🌱 Currently Learning  
-- Strengthening **DSA in Java** (LeetCode, GfG, Codolio)  
-- Full-Stack Web Development (React + Node.js + Firebase)  
-- Advanced UI/UX animations (**GSAP, Locomotive, Lenis**)  
-- AI-powered applications with real-time integration  
+## 🌱 Currently Learning
+- **Data Structures & Algorithms** in Java (LeetCode, GeeksforGeeks)
+- **React.js** for dynamic web applications
+- **Advanced UI/UX animations** (GSAP, Locomotive, Lenis)
+- **AI integration** in web applications
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
 
-- **[TaskForge](https://github.com/katiyar-saksham/TaskForge)**  
-  Collaborative task management app with **AI-based task splitter, Kanban board, Firebase Auth & Firestore**  
+### 🚀 [TaskForge (In Progress)](https://github.com/katiyar-saksham/projectPulse-in-Progress-)
+AI-powered collaborative task management with **smart task splitting**, **Kanban board**, and **real-time collaboration**
 
-- **[Care Sathi](https://github.com/katiyar-saksham/CareSathi)**  
-  AI-based disease prediction app with **live chat support** and **hospital locator**  
+### 🏥 Care Sathi
+AI-based disease prediction app with **live chat support** and **hospital locator** for healthcare assistance
 
-- **[NutriMap](https://github.com/katiyar-saksham/NutriMap)**  
-  Personalized nutrition chatbot offering **diet suggestions** based on user input  
+### 🍎 [NutriMap](https://github.com/katiyar-saksham/Nutri-Map)
+Personalized nutrition chatbot offering **intelligent diet suggestions** based on user preferences and health goals
 
-- **[Influenzio](https://github.com/katiyar-saksham/Influenzio)**  
-  Influencer marketing platform with a **reward system using Influenzio Coins**  
+### 📈 Influenzio
+Influencer marketing platform with a **reward system** using Influenzio Coins and **brand collaboration** features
 
-- **[Sidcup Family Golf Clone](https://github.com/katiyar-saksham/Sidcup-Clone)**  
-  Clean, animated, responsive website built with **modern front-end practices**  
+### 🏌️ [Sidcup Golf Clone](https://github.com/katiyar-saksham/Sidcup-Golf)
+Modern, **responsive website** with **smooth animations** and **clean UI/UX** using advanced CSS and GSAP
 
----
-
-## 📊 DSA & Coding Stats  
-
-### 📌 LeetCode (Auto-updated)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/katiyar-saksham?theme=chartreuse&font=Tiro%20Tamil&ext=heatmap)
-
-- Easy: ![Easy](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/katiyar-saksham&query=easySolved&label=Easy&color=brightgreen)  
-- Medium: ![Medium](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/katiyar-saksham&query=mediumSolved&label=Medium&color=yellow)  
-- Hard: ![Hard](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/katiyar-saksham&query=hardSolved&label=Hard&color=red)  
-
-### 🟢 GitHub Streak & Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=katiyar-saksham&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiyar-saksham&show_icons=true&theme=tokyonight&hide_border=true)  
-
-### 🔥 Contribution Heatmap  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katiyar-saksham&theme=react-dark&hide_border=true)  
+### 💼 [Portfolio Website](https://github.com/katiyar-saksham/Portfolio)
+Personal portfolio showcasing projects with **interactive design** and **seamless user experience**
 
 ---
 
-## 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-katiyar.saksham2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katiyar.saksham2004@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-sakshamkatiyar.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://sakshamkatiyar.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saksham%20Katiyar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiyar-saksham/)  
-[![GitHub](https://img.shields.io/badge/GitHub-katiyar--saksham-black?style=for-the-badge&logo=github)](https://github.com/katiyar-saksham)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-katiyar--saksham-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/katiyar-saksham)  
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiyar-saksham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=katiyar-saksham&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katiyar-saksham&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🏕️ Fun Fact  
-When I'm not debugging code, I'm usually **exploring adventures** — from flying high in the skies to diving deep into creative design ⚡😄  
+## 🔥 LeetCode Stats
 
-# Hi there, I'm Saksham 👋  
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/katiyar-saksham?theme=nord&font=Karma&ext=heatmap)
 
-🚀 Passionate about **DSA | Web Development | Open Source**  
-🎯 Currently building: **TaskForge – Group Task Splitter** & **BugTracker AI – Smart Debugging Companion**  
-💡 Exploring: AI-Powered Tools, Clean UI/UX, and Problem-Solving through Code  
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=katiyar-saksham&theme=dark)
 
----
-
-## 📊 LeetCode Stats (Auto-updating)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/katiyar-saksham?theme=chartreuse&font=Tiro%20Tamil&ext=heatmap)
+</div>
 
 ---
 
-## 🏆 GitHub Stats (Auto-updating)
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkatiyar&show_icons=true&theme=chartreuse-dark" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamkatiyar&theme=chartreuse-dark" height="180em" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katiyar-saksham&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 📈 Skills Progress  
-
-### Data Structures & Algorithms  
-- Arrays & Strings ![███████████░░░░░░░░](https://progress-bar.dev/70/?title=Progress)  
-- Linked List & Stacks ![████████░░░░░░░░░░](https://progress-bar.dev/55/?title=Progress)  
-- Trees & Graphs ![███████░░░░░░░░░░░░](https://progress-bar.dev/40/?title=Progress)  
-- Dynamic Programming ![█████░░░░░░░░░░░░░](https://progress-bar.dev/30/?title=Progress)  
-
-### Web Development  
-- HTML / CSS / JS ![██████████████░░░░░](https://progress-bar.dev/80/?title=Progress)  
-- React.js ![██████████░░░░░░░░░](https://progress-bar.dev/65/?title=Progress)  
-- Firebase ![███████░░░░░░░░░░░░](https://progress-bar.dev/40/?title=Progress)  
+## 🏆 Achievements
+- 🥈 **2x Hackathon Finalist** - Built innovative solutions under time pressure
+- 💻 **Open Source Contributor** - Active in building real-world applications
 
 ---
 
-## 🔥 Current Projects  
-- **TaskForge – Group Task Splitter** 🛠️ AI-powered group project manager  
-- **BugTracker AI – Smart Debugging Companion** 🐞 AI-assisted debugging tool  
-- **TimeSpace – Real-time Code Profiler for VS Code** ⏱️ Tracks runtime & memory usage  
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://sakshamkatiyar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiyar-saksham/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katiyar.saksham2004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/katiyar-saksham/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katiyar-saksham)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/saksham-katiyar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:sakshamkatiyar@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://leetcode.com/katiyar-saksham"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://github.com/sakshamkatiyar"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
+<div align="center">
+
+### 🏕️ Fun Fact
+*When I'm not debugging code, I'm usually exploring adventures — from flying high in the skies to diving deep into creative design* ⚡😄
+
+**💡 "Code. Create. Conquer."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=katiyar-saksham&color=brightgreen&style=for-the-badge)
+
+</div>
