@@ -43,6 +43,32 @@
 
 ---
 
+## 🛤️ Tech Stack Timeline
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+
+    section Programming
+    Java Basics           :done,    des1, 2021-06, 2021-12
+    Python & Problem Solving :done, des2, 2022-01, 2022-08
+    JavaScript & DSA      :active,  des3, 2022-09, 2023-04
+
+    section Web Development
+    HTML & CSS            :done,    des4, 2022-10, 2023-01
+    React + GSAP + UI/UX  :active,  des5, 2023-02, 2023-10
+    Node.js + Firebase    :active,  des6, 2023-11, 2024-08
+
+    section AI / ML
+    AI Basics with Python :done,    des7, 2023-03, 2023-09
+    ML Integration in Web :active,  des8, 2024-01, 2025-03
+
+    section Current Focus
+    Advanced Full-Stack & AI Apps :crit, active, des9, 2025-04, 2025-12
+
+---
+
 ## 🌟 Featured Projects
 
 - **[TaskForge](https://taskforge-demo.vercel.app)**  
