@@ -82,11 +82,12 @@ Personal portfolio showcasing projects with **interactive design** and **seamles
 
 <div align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/katiyar-saksham?theme=nord&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/katiyar-saksham?theme=chartreuse&font=Tiro%20Tamil&ext=heatmap)
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=katiyar-saksham&theme=dark)
 
 </div>
+
 
 ---
 
