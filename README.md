@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;2x+Hackathon+Finalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;AI+Enthusiast;Problem+Solver;2x+Hackathon+Finalist)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,7 +82,7 @@ Features: Project showcase, responsive design, smooth user experience
 
 ---
 
-## 📊 GitHub Stats (Live Updated)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -101,18 +101,26 @@ Features: Project showcase, responsive design, smooth user experience
 </div>
 
 ---
-
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/katiyar-saksham/katiyar-saksham/output/snake.svg)
+![GitHub Contribution Grid Snake Animation](https://github.com/katiyar-saksham/katiyar-saksham/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+### Alternative: Live Contribution Graph
+<div align="center">
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=katiyar-saksham&theme=tokyonight&hide_border=true)
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=katiyar-saksham&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🔥 LeetCode Stats (Auto-Updated)
+## 🔥 LeetCode Stats
 
 <div align="center">
 
