@@ -32,5 +32,5 @@
 - **LeetCode:** [katiyar-saksham](http://leetcode.com/katiyar-saksham/)  
 - **HackerRank:** [katiyar_saksham](https://www.hackerrank.com/profile/katiyar_saksham)
 
-## ⚡ Fun Fact
-I love **paragliding** and **bungee jumping** — always up for a challenge, whether in the sky or in code! 😄✨
+## 🏕️ Fun Fact 
+Adventure has always been my thing — whether it's soaring through the skies or diving into the world of code, I'm always ready to take on a challenge. 😄⚡
