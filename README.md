@@ -82,7 +82,7 @@ Features: Project showcase, responsive design, smooth user experience
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Live Updated)
 
 <div align="center">
 
@@ -90,13 +90,33 @@ Features: Project showcase, responsive design, smooth user experience
 [![trophy](https://github-profile-trophy.vercel.app/?username=katiyar-saksham&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Statistics
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=katiyar-saksham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiyar-saksham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katiyar-saksham&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=katiyar-saksham&theme=tokyonight&hide_border=true)
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katiyar-saksham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katiyar-saksham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=katiyar-saksham&bg_color=1a1b27&color=628fdb&line=628fdb&point=ff9085&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+![Snake Animation](https://github.com/katiyar-saksham/katiyar-saksham/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
