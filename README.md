@@ -101,23 +101,16 @@ Features: Project showcase, responsive design, smooth user experience
 </div>
 
 ---
-## 🐍 Contribution Activity
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-![GitHub Contribution Grid Snake Animation](https://github.com/katiyar-saksham/katiyar-saksham/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=katiyar-saksham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=katiyar-saksham&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-### Alternative: Live Contribution Graph
-<div align="center">
-
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=katiyar-saksham&theme=tokyonight&hide_border=true)
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=katiyar-saksham&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
 ---
 
 ## 🔥 LeetCode Stats
